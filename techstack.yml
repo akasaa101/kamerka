@@ -1,0 +1,93 @@
+repo_name: akasaa101/kamerka
+report_id: 2ca1d25e40ba95f4b933887ea61403d2
+repo_type: Public
+timestamp: '2023-11-28T08:47:16+00:00'
+requested_by: web-flow
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: requirements.txt
+  last_updated_by: woj-ciech
+  last_updated_on: 2018-11-04 16:28:08.000000000 Z
+- name: colorama
+  description: Cross-platform colored terminal text
+  package_url: https://pypi.org/colorama
+  version: 0.3.9
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: github.com/akasaa101/kamerka/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: woj-ciech
+  last_updated_on: 2018-11-04 16:28:08.000000000 Z
+- name: geographiclib
+  description: The geodesic routines from GeographicLib
+  package_url: https://pypi.org/geographiclib
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: requirements.txt
+  last_updated_by: cryptid11
+  last_updated_on: 2018-11-04 17:37:10.000000000 Z
+- name: geopy
+  description: Python Geocoding Toolbox
+  package_url: https://pypi.org/geopy
+  version: 1.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20597/default_765f8741ddac0d2e816e17438b35e7fda5019b4a.png
+  detection_source_url: github.com/akasaa101/kamerka/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: woj-ciech
+  last_updated_on: 2018-11-04 16:28:08.000000000 Z
+- name: shodan
+  description: Python library and command-line utility for Shodan
+  package_url: https://pypi.org/shodan
+  version: 1.10.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: github.com/akasaa101/kamerka/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: woj-ciech
+  last_updated_on: 2018-11-04 16:28:08.000000000 Z
