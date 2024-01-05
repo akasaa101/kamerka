@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akasaa101/kamerka](https://github.com/akasaa101/kamerka)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/28/23 <br/>Report generated|
+|7<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -69,10 +69,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[colorama](https://pypi.org/colorama)|v0.3.9|11/04/18|woj-ciech |BSD-3-Clause|N/A|
-|[geographiclib](https://pypi.org/geographiclib)|N/A|11/04/18|cryptid11 |MIT|N/A|
-|[geopy](https://pypi.org/geopy)|v1.17.0|11/04/18|woj-ciech |MIT|N/A|
-|[shodan](https://pypi.org/shodan)|v1.10.4|11/04/18|woj-ciech |MIT|N/A|
+|[colorama](https://pypi.org/project/colorama)|v0.3.9|11/04/18|woj-ciech |BSD-3-Clause|N/A|
+|[geographiclib](https://pypi.org/project/geographiclib)|N/A|11/04/18|cryptid11 |MIT|N/A|
+|[geopy](https://pypi.org/project/geopy)|v1.17.0|11/04/18|woj-ciech |MIT|N/A|
+|[shodan](https://pypi.org/project/shodan)|v1.10.4|11/04/18|woj-ciech |MIT|N/A|
 
 <br/>
 <div align='center'>
